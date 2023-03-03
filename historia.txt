@@ -2,6 +2,6 @@ Esta es la historia de jaime gonzalez.
 
 Nacio en Monterrey y tiene 42 años.
 
-hoy hablaremos de su historia:
+hoy hablaremos de su vida:
 
 esta en proceso de aprender data science
