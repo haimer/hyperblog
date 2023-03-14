@@ -4,4 +4,6 @@ Nacio en Monterrey y tiene 42 años.
 
 master 1
 
+master 2
+
 mañana nos enfocaremos en su vida laboral.
